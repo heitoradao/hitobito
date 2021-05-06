@@ -767,9 +767,6 @@ fr:
       button_preview: Aperçu
       button_dispatch_text_message: Envoyer
       button_show_pdf: Afficher le PDF
-    letter:
-      fields:
-        available_placeholders: 'Espaces disponibles: %{placeholders}'
     text_message:
       fields:
         remaining_chars: Caractères restant
